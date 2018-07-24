@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MatrixFind.iml" filepath="$PROJECT_DIR$/.idea/MatrixFind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SwordToOffer/.idea/MatrixFind.iml" filepath="$PROJECT_DIR$/../SwordToOffer/.idea/MatrixFind.iml" />
     </modules>
   </component>
 </project>
